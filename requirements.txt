@@ -1,0 +1,13 @@
+celery[redis]
+redis
+fpdf2
+Pillow
+opencv-python
+pytesseract
+spacy==3.7.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+transformers
+torch
+sentencepiece
+Flask
+werkzeug
